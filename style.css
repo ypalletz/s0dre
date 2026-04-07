@@ -11,11 +11,12 @@ body {
 }
 header {
     padding: 32px;
-    border-bottom: 3px solid var(--subcor);
+    border-bottom: 10px solid var(--subcor);
     background-color: rgba(0, 0, 0, 0.1);
 }
 header div {
     text-align: center
+
 }
 header div a{
 color: white;
